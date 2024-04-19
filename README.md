@@ -67,9 +67,9 @@ Com este projeto, conseguiremos praticar tudo o que aprendemos no curso, como de
 
 Nossa sugestão é que faça por etapas passando por cada detalhe e testando, como em um checklist:
 
--Inicializar dados do cliente
--Menu de opções
--Visualização do saldo
--Enviar valor
--Receber valor
+- [ ] Inicializar dados do cliente
+- [ ] Menu de opções
+- [ ] Visualização do saldo
+- [ ] Enviar valor
+- [ ] Receber valor
 
